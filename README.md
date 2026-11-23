@@ -8,7 +8,7 @@ usada para demonstrar **programação concorrente** e **comunicação/sincroniza
 
 ## 1. Objetivo do projeto
 
-Em uma máquina inseridora, **alimentadores** fornecem componentes (resistores, capacitores) e **cabeçotes**
+Em uma máquina insersora, **alimentadores** fornecem componentes (resistores, capacitores) e **cabeçotes**
 os inserem na placa. Dois recursos são críticos:
 
 - a **bandeja** de componentes, um buffer limitado compartilhado (problema **produtor–consumidor**);
