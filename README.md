@@ -22,7 +22,7 @@ condição e fila de mensagens resolvem o problema sem condição de corrida e s
 **Requisitos:** Linux, `gcc` e `make` (testado com gcc 13 / Ubuntu 24). A biblioteca de filas POSIX (`-lrt`) já vem com a glibc.
 
 ```bash
-git clone <URL-DO-REPOSITORIO>
+git clone https://github.com/rayellenwr/2026-2-Sistemas-Eletr-nicos-de-Tempo-Real/edit/main/README.md
 cd insersora
 make          # compila
 ./insersora   # executa (ou: make run)
