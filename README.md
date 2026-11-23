@@ -1,4 +1,4 @@
-# Máquina Inseridora de Componentes Concorrente
+# Máquina Insersora de Componentes Concorrente
 
 Simulação em C de uma máquina **pick-and-place** (inserção de componentes eletrônicos em placas SMT),
 usada para demonstrar **programação concorrente** e **comunicação/sincronização entre processos e threads** em POSIX.
