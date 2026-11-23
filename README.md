@@ -4,7 +4,7 @@ Simulação em C de uma máquina **pick-and-place** (inserção de componentes e
 usada para demonstrar **programação concorrente** e **comunicação/sincronização entre processos e threads** em POSIX.
 
 > Atividade: Avaliação Parcial 2 – Projeto Final Livre (Programação Concorrente e IPC)
-> Equipe: _Nome 1_, _Nome 2_, _Nome 3_
+> Equipe: Rayellen da Silva Araujo
 
 ## 1. Objetivo do projeto
 
